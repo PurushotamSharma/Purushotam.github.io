@@ -1,0 +1,23 @@
+[
+  {
+    "name": "E-commerece Website",
+    "desc": "It is a fully java based web application using JSP, Servlet and Html. In this I made signup,login,bill generator etc .. for more details please visit my github account.",
+    "image": "e-commerece",
+    "category": "Web Application",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/PurushotamSharma/E-Commerece-Website"
+    }
+  },
+  {
+    "name": "Like a ChatGpt app ",
+    "desc": "In this i use the API of the chatgpt",
+    "image": "ChatGPT",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/PurushotamSharma/chat_gpt"
+    }
+  }
+  
+]
