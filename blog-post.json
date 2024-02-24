@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Getting Started with Web Development",
+      "date": "2024-01-15",
+      "author": "Your Name",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...",
+      "image": "web-development.jpg",
+      "url": "getting-started-web-development.html"
+    },
+    {
+      "title": "The Future of Artificial Intelligence",
+      "date": "2024-02-01",
+      "author": "Your Name",
+      "content": "Curabitur nec metus eu leo fermentum accumsan sit amet eu arcu...",
+      "image": "ai-future.jpg",
+      "url": "future-of-ai.html"
+    },
+   
+  ]
+  
